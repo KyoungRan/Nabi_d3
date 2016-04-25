@@ -1,0 +1,1623 @@
+[
+  {
+    "local_main": "경기도",
+    "local_sub": "화성시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1828.958,
+    "code": "41590"
+  },
+  {
+    "local_main": "울산광역시",
+    "local_sub": "남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1828.363,
+    "code": "31140"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "여수시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1665.233,
+    "code": "46130"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "포항시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1622.367,
+    "code": "47110"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "아산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1471.74,
+    "code": "44200"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "당진시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1430.064,
+    "code": "44270"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "창원시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1326.471,
+    "code": "48120"
+  },
+  {
+    "local_main": "울산광역시",
+    "local_sub": "울주군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1271.698,
+    "code": "31710"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "구미시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1225.854,
+    "code": "47190"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "청주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1187.751,
+    "code": "43110"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "용인시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1075.823,
+    "code": "41460"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "군산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1041.292,
+    "code": "45130"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "안산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 1013.31,
+    "code": "41270"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "파주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 960.322,
+    "code": "41480"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "천안시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 938.889,
+    "code": "44130"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "평택시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 883.52,
+    "code": "41220"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "서산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 857.324,
+    "code": "44210"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "광양시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 782.904,
+    "code": "46230"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "수원시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 633.467,
+    "code": "41110"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "김해시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 625.132,
+    "code": "48250"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 598.936,
+    "code": "28260"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "성남시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 580.48,
+    "code": "41130"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "강남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 565.596,
+    "code": "11680"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "이천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 548.33,
+    "code": "41500"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "고양시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 543.567,
+    "code": "41280"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "청원군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 525.706,
+    "code": "43710"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "전주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 519.157,
+    "code": "45110"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "부천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 506.059,
+    "code": "41190"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "달서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 504.869,
+    "code": "27290"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "시흥시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 502.487,
+    "code": "41390"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "남동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 487.603,
+    "code": "28200"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "경주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 487.008,
+    "code": "47130"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 477.482,
+    "code": "28140"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "서초구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 425.685,
+    "code": "11650"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "양산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 419.136,
+    "code": "48330"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "강서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 409.015,
+    "code": "26440"
+  },
+  {
+    "local_main": "광주광역시",
+    "local_sub": "광산구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 404.848,
+    "code": "29200"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "달성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 400.68,
+    "code": "27710"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "익산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 386.987,
+    "code": "45140"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "김포시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 379.247,
+    "code": "41570"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "동해시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 370.316,
+    "code": "42170"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "사하구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 348.288,
+    "code": "26380"
+  },
+  {
+    "local_main": "대전광역시",
+    "local_sub": "대덕구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 341.739,
+    "code": "30230"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "남양주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 339.357,
+    "code": "41360"
+  },
+  {
+    "local_main": "대전광역시",
+    "local_sub": "유성구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 333.999,
+    "code": "30200"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "경산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 327.45,
+    "code": "47290"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "안성시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 323.283,
+    "code": "41550"
+  },
+  {
+    "local_main": "제주특별자치도",
+    "local_sub": "제주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 322.092,
+    "code": "50110"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "영등포구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 317.924,
+    "code": "11560"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "송파구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 312.566,
+    "code": "11710"
+  },
+  {
+    "local_main": "세종특별자치시",
+    "local_sub": "세종시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 312.566,
+    "code": "36110"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "음성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 311.971,
+    "code": "43770"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "포천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 310.78,
+    "code": "41650"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "진주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 308.994,
+    "code": "48170"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "함안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 308.994,
+    "code": "48730"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 307.803,
+    "code": "11140"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "안양시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 305.422,
+    "code": "41170"
+  },
+  {
+    "local_main": "울산광역시",
+    "local_sub": "북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 296.491,
+    "code": "31200"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "부평구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 296.491,
+    "code": "28237"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 283.393,
+    "code": "27230"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "광주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 278.63,
+    "code": "41610"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "원주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 277.44,
+    "code": "42130"
+  },
+  {
+    "local_main": "광주광역시",
+    "local_sub": "북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 266.723,
+    "code": "29170"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "거제시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 263.746,
+    "code": "48310"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "충주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 263.151,
+    "code": "43130"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 261.96,
+    "code": "28170"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "양주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 251.839,
+    "code": "41630"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "칠곡군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 247.076,
+    "code": "47850"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "강서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 245.29,
+    "code": "11500"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "김천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 244.099,
+    "code": "47150"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "마포구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 239.932,
+    "code": "11440"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "강릉시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 237.55,
+    "code": "42150"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "진천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 235.764,
+    "code": "43750"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "봉화군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 229.811,
+    "code": "47920"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "성동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 229.811,
+    "code": "11200"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "구로구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 229.811,
+    "code": "11530"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "사상구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 226.834,
+    "code": "26530"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "연수구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 223.262,
+    "code": "28185"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "해운대구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 222.071,
+    "code": "26350"
+  },
+  {
+    "local_main": "대전광역시",
+    "local_sub": "서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 220.285,
+    "code": "30170"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 219.689,
+    "code": "28110"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "순천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 219.094,
+    "code": "46150"
+  },
+  {
+    "local_main": "울산광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 219.094,
+    "code": "31170"
+  },
+  {
+    "local_main": "제주특별자치도",
+    "local_sub": "서귀포시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 214.926,
+    "code": "50130"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "단양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 214.331,
+    "code": "43800"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "종로구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 211.95,
+    "code": "11110"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "부산진구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 202.424,
+    "code": "26230"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "관악구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 202.424,
+    "code": "11620"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "광진구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 197.065,
+    "code": "11215"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "금천구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 195.279,
+    "code": "11545"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "완주군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 192.898,
+    "code": "45710"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "수성구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 192.898,
+    "code": "27260"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "의정부시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 192.303,
+    "code": "41150"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "춘천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 191.112,
+    "code": "42110"
+  },
+  {
+    "local_main": "광주광역시",
+    "local_sub": "서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 189.921,
+    "code": "29140"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "양천구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 186.944,
+    "code": "11470"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "노원구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 184.563,
+    "code": "11350"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "강동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 183.967,
+    "code": "11740"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "군포시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 177.418,
+    "code": "41410"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "성북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 177.418,
+    "code": "11290"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "제천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 176.228,
+    "code": "43150"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "영암군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 174.442,
+    "code": "46830"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "동대문구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 174.442,
+    "code": "11230"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "영천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 173.251,
+    "code": "47230"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 167.893,
+    "code": "26290"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "용산구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 166.107,
+    "code": "11170"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "정읍시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 165.511,
+    "code": "45180"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "여주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 161.344
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "영주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 161.344,
+    "code": "47210"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "은평구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 160.153,
+    "code": "11380"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 157.771,
+    "code": "27140"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "계양구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 157.771,
+    "code": "28245"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "사천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 155.985,
+    "code": "48240"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "삼척시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 154.199,
+    "code": "42230"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "동작구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 154.199,
+    "code": "11590"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "논산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 153.604,
+    "code": "44230"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "오산시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 150.032,
+    "code": "41370"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "서천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 147.65,
+    "code": "44770"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "서대문구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 147.055,
+    "code": "11410"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "고령군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 145.269,
+    "code": "47830"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "광명시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 143.483,
+    "code": "41210"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "통영시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 138.72,
+    "code": "48220"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "밀양시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 136.934,
+    "code": "48270"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 134.552,
+    "code": "27170"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "하남시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 133.957,
+    "code": "41450"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "중랑구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 133.362,
+    "code": "11260"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "금정구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 130.98,
+    "code": "26410"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "영월군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 128.599,
+    "code": "42750"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "보령시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 128.003,
+    "code": "44180"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "기장군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 126.217,
+    "code": "26710"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "안동시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 124.431,
+    "code": "47170"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "나주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 123.836,
+    "code": "46170"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "공주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 123.836,
+    "code": "44150"
+  },
+  {
+    "local_main": "대전광역시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 120.264,
+    "code": "30140"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "금산군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 117.287,
+    "code": "44710"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "목포시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 116.096,
+    "code": "46110"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "예산군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 113.715,
+    "code": "44810"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "양평군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 112.524,
+    "code": "41830"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "동래구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 111.928,
+    "code": "26260"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "강북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 110.738,
+    "code": "11305"
+  },
+  {
+    "local_main": "대전광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 110.142,
+    "code": "30110"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "성주군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 109.547,
+    "code": "47840"
+  },
+  {
+    "local_main": "서울특별시",
+    "local_sub": "도봉구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 109.547,
+    "code": "11320"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "김제시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 107.761,
+    "code": "45210"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "북구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 107.761,
+    "code": "26320"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "창녕군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 106.57,
+    "code": "48740"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "완도군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 105.379,
+    "code": "46890"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "홍성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 98.83,
+    "code": "44800"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "연제구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 92.877,
+    "code": "26470"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "구리시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 89.9,
+    "code": "41310"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 87.519,
+    "code": "27110"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "상주시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 83.946,
+    "code": "47250"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "홍천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 83.351,
+    "code": "42720"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "태안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 83.351,
+    "code": "44825"
+  },
+  {
+    "local_main": "울산광역시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 83.351,
+    "code": "31110"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "의왕시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 82.756,
+    "code": "41430"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "해남군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 82.16,
+    "code": "46820"
+  },
+  {
+    "local_main": "광주광역시",
+    "local_sub": "남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 81.565,
+    "code": "29155"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "동두천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 80.97,
+    "code": "41250"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "고성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 78.588,
+    "code": "48820"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "영광군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 78.588,
+    "code": "46870"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "가평군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 77.397,
+    "code": "41820"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "정선군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 73.825,
+    "code": "42770"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "옥천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 73.23,
+    "code": "43730"
+  },
+  {
+    "local_main": "대구광역시",
+    "local_sub": "남구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 73.23,
+    "code": "27200"
+  },
+  {
+    "local_main": "광주광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 73.23,
+    "code": "29110"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "평창군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 72.634,
+    "code": "42760"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "장성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 71.444,
+    "code": "46880"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "부여군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 71.444,
+    "code": "44760"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "문경시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 70.253,
+    "code": "47280"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "서구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 69.658,
+    "code": "26140"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "수영구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 69.658,
+    "code": "26500"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "횡성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 67.871,
+    "code": "42730"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "남원시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 67.871,
+    "code": "45190"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "무안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 66.681,
+    "code": "46840"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "고창군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 64.299,
+    "code": "45790"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "연천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 63.704,
+    "code": "41800"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "증평군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 63.704,
+    "code": "43745"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "동구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 63.109,
+    "code": "26170"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "강화군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 63.109,
+    "code": "28710"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "화순군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 62.513,
+    "code": "46790"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "울진군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 60.132,
+    "code": "47930"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "담양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 58.346,
+    "code": "46710"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "괴산군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 57.75,
+    "code": "43760"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "영도구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 57.75,
+    "code": "26200"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "철원군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 57.155,
+    "code": "42780"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "속초시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 55.964,
+    "code": "42210"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "청도군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 55.964,
+    "code": "47820"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "부안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 55.964,
+    "code": "45800"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "고흥군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 52.987,
+    "code": "46770"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "거창군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 51.797,
+    "code": "48880"
+  },
+  {
+    "local_main": "부산광역시",
+    "local_sub": "중구",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 51.797,
+    "code": "26110"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "영동군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 51.201,
+    "code": "43740"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "곡성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 50.606,
+    "code": "46720"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "의성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 49.415,
+    "code": "47730"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "의령군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 48.82,
+    "code": "48720"
+  },
+  {
+    "local_main": "경기도",
+    "local_sub": "과천시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 48.224,
+    "code": "41290"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "합천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 44.652,
+    "code": "48890"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "태백시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 40.485,
+    "code": "42190"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "함평군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 39.889,
+    "code": "46860"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "인제군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 39.294,
+    "code": "42810"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "하동군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 38.699,
+    "code": "48850"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "장흥군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 38.699,
+    "code": "46800"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "군위군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 38.699,
+    "code": "47720"
+  },
+  {
+    "local_main": "충청북도",
+    "local_sub": "보은군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 36.913,
+    "code": "43720"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "예천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 36.317,
+    "code": "47900"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "고성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 35.126,
+    "code": "42820"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "산청군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 35.126,
+    "code": "48860"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "강진군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 35.126,
+    "code": "46810"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "진도군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 35.126,
+    "code": "46900"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "청양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 35.126,
+    "code": "44790"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "영덕군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 34.531,
+    "code": "47770"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "임실군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 33.936,
+    "code": "45750"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "보성군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 33.34,
+    "code": "46780"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "양양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 32.15,
+    "code": "42830"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "남해군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 31.554,
+    "code": "48840"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "신안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 30.959,
+    "code": "46910"
+  },
+  {
+    "local_main": "경상남도",
+    "local_sub": "함양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 30.364,
+    "code": "48870"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "화천군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 29.173,
+    "code": "42790"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "순창군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 29.173,
+    "code": "45770"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "계룡시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 27.982,
+    "code": "44250"
+  },
+  {
+    "local_main": "인천광역시",
+    "local_sub": "옹진군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 26.791,
+    "code": "28720"
+  },
+  {
+    "local_main": "강원도",
+    "local_sub": "양구군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 25.601,
+    "code": "42800"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "무주군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 24.41,
+    "code": "45730"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "장수군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 24.41,
+    "code": "45740"
+  },
+  {
+    "local_main": "전라북도",
+    "local_sub": "진안군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 22.028,
+    "code": "45720"
+  },
+  {
+    "local_main": "황해북도",
+    "local_sub": "개성시",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 21.433
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "청송군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 21.433,
+    "code": "47750"
+  },
+  {
+    "local_main": "전라남도",
+    "local_sub": "구례군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 19.647,
+    "code": "46730"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "영양군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 13.693,
+    "code": "47760"
+  },
+  {
+    "local_main": "경상북도",
+    "local_sub": "울릉군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 6.549,
+    "code": "47940"
+  },
+  {
+    "local_main": "충청남도",
+    "local_sub": "연기군",
+    "timestamp": 1461587400,
+    "usage_5min_MWh": 0
+  }
+]
